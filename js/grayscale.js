@@ -41,7 +41,7 @@ function init() {
         zoom: 14,
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(50.9352714, 6.9347012), // die wohngemeinschaft
+        center: new google.maps.LatLng(50.930398, 6.946791), // Hack Institute
 
         // Disables the default Google Maps UI components
         disableDefaultUI: true,
@@ -91,10 +91,12 @@ function init() {
     // Create the Google Map using out element and options defined above
     var map = new google.maps.Map(mapElement, mapOptions);
 
-    // Solution Space
-    var solutionSpace = new google.maps.Marker({
+    // Hack Institute
+    var hackInstitute = new google.maps.Marker({
         map: map,
-        position: new google.maps.LatLng(50.9352714, 6.9347012), // die wohngemeinschaft
+        position: new google.maps.LatLng(50.930398,6.946791), // die HackInstitute
         icon: 'img/map-marker-office.png'
     });
+
+    // 50.930398, 6.946791 Hack Insittute
 }
