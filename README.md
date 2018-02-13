@@ -1,19 +1,17 @@
-## Alexa Hackthon, April 27th 2017, Cologne
+## Frühjahrsputz Hackthon, March 23rd 2018, Cologne
 
 ## What you can expect
 
-Invent and develop with other new ideas for Amazons Alexa. Implement your ideas as rapid prototyp within four hours. you can join other teams with great ideas as well as pitch your own ideas at the beginning of the hackathon.
+Invent and develop with others robots and remote controlled brooms for spring cleaning. Implement your ideas as rapid prototyp within the hackathon. you can join other teams with great ideas as well as pitch your own ideas at the beginning of the hackathon.
 
-Alexa Skills can be developed with any (backend-) programming language. We will start the hackathon with an introduction which will enable you to develop your first skill. Also non developers are invited to pitch their Ideas and Concepts and get part of this venture.
+You're free to use what ever u like, Cardboard, Arduinos, Apps, Lego, 3d Printing. We will provide materials to get you started but you're very welcome to bring your own vacuumcleaner or remote controlled cars. Everybody who's interested in tinkering, designing, devolping and playing is welcome to pitch their ideas and concepts and be part of this venture.
 
 ## Orga
 
 This hackathon is brought to you by [hack.institute](http://hack.institute/)
-and [mobile.cologne](http://mobile.cologne/).
+and [universal interaction](http://universal-interaction.com/).
 
 ![hack.institute](http://hackathon.mobile.cologne/img/hack.institute-new.png)
-
-![mobile.cologne](http://hackathon.mobile.cologne/img/mobile.cologne.png)
 
 ## Page based on Bootstrap and Grayscale
 
